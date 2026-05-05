@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajabhagat83" alt="rajabhagat83" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/raja__bhagat" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/raja__bhagat?logo=twitter&style=for-the-badge" alt="https://x.com/raja__bhagat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/raja__bhagat" target="blank"><img src="https://img.shields.io/twitter/follow/raja__bhagat?logo=twitter&style=for-the-badge" alt="raja__bhagat" /></a> </p>
 
 - 🔭 I’m currently working on [SkillUp-Bridge](https://buddyfinder-psi.vercel.app/)
 
@@ -19,12 +19,12 @@
 
 - 📄 Know about my experiences [https://1drv.ms/b/c/820aa0d4dbad20b9/IQCXwe8xAVBWQawhCKXNcCJbAWz0NKx05SCgOYe4RWMutc0?e=KtKKrl](https://1drv.ms/b/c/820aa0d4dbad20b9/IQCXwe8xAVBWQawhCKXNcCJbAWz0NKx05SCgOYe4RWMutc0?e=KtKKrl)
 
-- ⚡ Fun fact **I AM Boring**
+- ⚡ Fun fact **I AM Boring Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/raja__bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/raja__bhagat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raja-bhagat-6a04b02a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raja-bhagat-6a04b02a9/" height="30" width="40" /></a>
+<a href="https://twitter.com/raja__bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raja__bhagat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raja-bhagat-6a04b02a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja-bhagat-6a04b02a9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
