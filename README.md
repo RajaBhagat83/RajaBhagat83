@@ -1,37 +1,157 @@
-<h1 align="center">Hi 👋, I'm Raja Bhagat</h1>
-<h3 align="center">Full Stack Developer | React · Node.js · Next.js · MongoDB | Building Real-Time Web Applications</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajabhagat83&label=Profile%20views&color=0e75b6&style=flat" alt="rajabhagat83" /> </p>
+```
+██████╗  █████╗      ██╗ █████╗     ██████╗ ██╗  ██╗ █████╗  ██████╗  █████╗ ████████╗
+██╔══██╗██╔══██╗     ██║██╔══██╗    ██╔══██╗██║  ██║██╔══██╗██╔════╝ ██╔══██╗╚══██╔══╝
+██████╔╝███████║     ██║███████║    ██████╔╝███████║███████║██║  ███╗███████║   ██║   
+██╔══██╗██╔══██║██   ██║██╔══██║    ██╔══██╗██╔══██║██╔══██║██║   ██║██╔══██║   ██║   
+██║  ██║██║  ██║╚█████╔╝██║  ██║    ██████╔╝██║  ██║██║  ██║╚██████╔╝██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajabhagat83" alt="rajabhagat83" /></a> </p>
+### `Full Stack Developer` · `Next.js` · `React` · `Node.js` · `Python` · `Real-Time Systems`
 
-<p align="left"> <a href="https://twitter.com/raja__bhagat" target="blank"><img src="https://img.shields.io/twitter/follow/raja__bhagat?logo=twitter&style=for-the-badge" alt="raja__bhagat" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=rajabhagat83&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/RajaBhagat83)
+[![Twitter Follow](https://img.shields.io/twitter/follow/raja__bhagat?style=flat-square&logo=twitter&color=1DA1F2&labelColor=000)](https://twitter.com/raja__bhagat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raja-bhagat-6a04b02a9/)
 
-- 🔭 I’m currently working on [SkillUp-Bridge](https://buddyfinder-psi.vercel.app/)
+</div>
 
-- 🌱 I’m currently learning **Docker and AI integration**
+---
 
-- 👨‍💻 All of my projects are available at [https://rajabhagat.vercel.app/](https://rajabhagat.vercel.app/)
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=rajabhagat83&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
-- 💬 Ask me about **React , Nextjs ,express**
+### 👤 About Me
 
-- 📫 How to reach me **https://x.com/Raja__bhagat**
+```typescript
+const raja = {
+  location    : "Ghaziabad, UP 🇮🇳",
+  education   : "B.Tech CSE @ RKGIT · CGPA 8.4",
+  currentRole : "Full Stack Intern @ Cieldoux Innovations",
+  building    : "SkillUp Bridge — live user discovery platform",
+  learning    : ["Docker", "AI Integration", "System Design"],
+  askMeAbout  : ["React", "Next.js", "Express", "WebSockets"],
+  funFact     : "I write async code but think in sync 😅",
+};
+```
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/820aa0d4dbad20b9/IQCXwe8xAVBWQawhCKXNcCJbAWz0NKx05SCgOYe4RWMutc0?e=KtKKrl](https://1drv.ms/b/c/820aa0d4dbad20b9/IQCXwe8xAVBWQawhCKXNcCJbAWz0NKx05SCgOYe4RWMutc0?e=KtKKrl)
+<br clear="right"/>
 
-- ⚡ Fun fact **I AM Boring Person**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/raja__bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raja__bhagat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raja-bhagat-6a04b02a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja-bhagat-6a04b02a9" height="30" width="40" /></a>
-</p>
+### 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<table>
+<tr>
+<td width="50%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajabhagat83&show_icons=true&locale=en&layout=compact" alt="rajabhagat83" /></p>
+**[🔗 SkillUp Bridge](https://buddyfinder-psi.vercel.app/)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajabhagat83&show_icons=true&locale=en" alt="rajabhagat83" /></p>
+> Interest-based developer discovery & real-time chat platform
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajabhagat83&" alt="rajabhagat83" /></p>
+- ⚡ `<100ms` Socket.IO message delivery
+- 🎯 `~60%` reduction in irrelevant matches
+- 🔒 JWT auth · RESTful API · MongoDB persistence
+- 🚀 Deployed via automated CI/CD on Vercel
+
+`React` `Express.js` `MongoDB` `Socket.IO` `JWT`
+
+</td>
+<td width="50%">
+
+**[🔗 LiveCanvas](https://github.com/RajaBhagat83/LiveCanvas)**
+
+> Real-time collaborative whiteboard — zero canvas libraries
+
+- 🎨 `60fps` rendering via HTML5 Canvas + matrix transforms
+- 👥 `5+` concurrent editors · `<80ms` round-trip sync
+- 🐳 Dockerised · Turborepo monorepo · shared CI/CD
+- ⚡ Conflict-free WebSocket state sync
+
+`Next.js` `WebSockets` `PostgreSQL` `Docker` `Turborepo`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Database & DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rajabhagat83&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajabhagat83&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajabhagat83&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajabhagat83&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e6e&area=true&hide_border=true" />
+</div>
+
+---
+
+### 🏆 Achievements
+
+```
+🎯  170+ LeetCode problems solved  ·  Medium-Hard focused  ·  Arrays · Trees · Graphs
+🎓  B.Tech CSE  ·  CGPA 8.4 / 10  ·  Raj Kumar Goel Institute of Technology
+💼  2× Industry Internships  ·  Cieldoux Innovations  ·  Net Communication Services
+🚀  2× Live Production Apps  ·  Sub-100ms latency  ·  Multi-user concurrent sessions
+```
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajabhagat.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://rajabhagat.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raja--bhagat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-bhagat-6a04b02a9/)
+[![Twitter](https://img.shields.io/badge/Twitter-@raja__bhagat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raja__bhagat)
+[![Email](https://img.shields.io/badge/Email-bhagatraja116@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagatraja116@gmail.com)
+
+<br/>
+
+*"First, solve the problem. Then, write the code."*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
