@@ -120,10 +120,17 @@ const raja = {
 
 ---
 
-### 📈 Contribution Graph
+### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajabhagat83&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e6e&area=true&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/RajaBhagat83/RajaBhagat83/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/RajaBhagat83/RajaBhagat83/output/github-snake.svg" />
+    <img alt="github contribution snake animation"
+         src="https://raw.githubusercontent.com/RajaBhagat83/RajaBhagat83/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
