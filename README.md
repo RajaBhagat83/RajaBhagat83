@@ -1,84 +1,164 @@
-<p align="center">
-  <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-v2-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/builder-profile-v2-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-v2-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/builder-profile-v2-light.svg">
-    <img src="./assets/hero/builder-profile-v2-dark.svg" alt="Wildan Syukri Niam, full-stack product builder" width="100%">
-  </picture>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://wildan-portfolio-six.vercel.app"><strong>View Portfolio</strong></a>
-</p>
+```
+██████╗  █████╗      ██╗ █████╗     ██████╗ ██╗  ██╗ █████╗  ██████╗  █████╗ ████████╗
+██╔══██╗██╔══██╗     ██║██╔══██╗    ██╔══██╗██║  ██║██╔══██╗██╔════╝ ██╔══██╗╚══██╔══╝
+██████╔╝███████║     ██║███████║    ██████╔╝███████║███████║██║  ███╗███████║   ██║   
+██╔══██╗██╔══██║██   ██║██╔══██║    ██╔══██╗██╔══██║██╔══██║██║   ██║██╔══██║   ██║   
+██║  ██║██║  ██║╚█████╔╝██║  ██║    ██████╔╝██║  ██║██║  ██║╚██████╔╝██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+```
 
-## Hey, I'm Wildan
+### `Full Stack Developer` · `Next.js` · `React` · `Node.js` · `Python` · `Real-Time Systems`
 
-I'm a **full-stack builder** based in Bandung, Indonesia. I work across **AI agents, Web3, and developer tools**, shaping products, leading teams, and building the software behind them.
+[![Profile Views](https://komarev.com/ghpvc/?username=rajabhagat83&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/RajaBhagat83)
+[![Twitter Follow](https://img.shields.io/twitter/follow/raja__bhagat?style=flat-square&logo=twitter&color=1DA1F2&labelColor=000)](https://twitter.com/raja__bhagat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raja-bhagat-6a04b02a9/)
 
-I enjoy taking projects from an early idea to a working release: defining the product, building the core system, testing the final flow, and often coordinating the team along the way.
-
-## What I Build
-
-- **Product & full-stack engineering:** from product direction and interface design to backend systems, integrations, deployment, and QA.
-- **AI products:** tool-using agents, purpose-built interfaces, and workflows that keep people in control.
-- **Web3 applications:** wallet intelligence, API payments, smart contracts, and on-chain product flows.
-- **Developer tools:** testing, reliability, and AI-assisted engineering workflows.
-
-## Selected Work
-
-| Project | What I built | My role · Current state |
-| --- | --- | --- |
-| [**Fradium**](https://github.com/fradiumofficial/fradium) · [Live beta](https://fradium.io) | Surfaces address risk before a user sends funds by combining AI output with community signals. | Team Lead · Full-Stack Developer<br>Public Beta |
-| [**PayGate**](https://github.com/wildanniam/paygate-stellar) · [Testnet beta](https://trypaygate.com) | Lets machine clients pay for individual API requests through HTTP 402 and Stellar testnet. | Founder · Builder<br>Stellar Testnet Beta |
-| [**Nova AI Wallet**](https://github.com/OfficialNovaAI/nova-wallet) · [Public prototype](https://nova-wallet-puce.vercel.app) | Turns wallet intent into clear actions while the connected wallet keeps final signing. | Team Lead · AI Engineer<br>Public Prototype · Degraded |
-| [**SpecHeal**](https://github.com/antech2-async/SpecHeal) | Helps teams distinguish safe selector recovery from real product bugs before applying a controlled repair. | Team Lead · Full-Stack & Product Developer<br>Hackathon Prototype · Offline |
-| [**Quorum**](https://github.com/wildanniam/Quorum) · [Testnet build](https://quorum-sandy-eight.vercel.app) | Connects event checkout, collaborator splits, wallet-bound passes, gated resources, and withdrawals. | Team Lead · Full-Stack & Smart Contract Engineer<br>Active Stellar Testnet Build |
-
-## Selected Highlights
-
-- **Fradium team:** winner of the [WCHL 2025 Global Finale Fully On-Chain Track](https://bse.telkomuniversity.ac.id/tim-fradium-berhasil-meraih-global-finale-winner-fully-on-chain-track-pada-world-computer-hacker-league-2025/).
-- **PayGate:** awarded a [$5,000 Stellar Community Fund Instaward](https://x.com/Indo_Stellar/status/2075550378553421994).
-- **Nova AI team:** 1st notable mention and 1st Social Media Challenge winner at the [SEA Lisk Builder Challenge 3](https://bse.telkomuniversity.ac.id/prestasi-tim-nova-ai-di-south-east-asia-lisk-builder-challenge-3/).
-- **SpecHeal team:** [2nd place at Refactory Hackathon 2026](https://portofolio-wildan-zeta.vercel.app/).
-
-## What I'm Exploring
-
-I'm interested in AI agents that can work with real tools, software, and financial systems, not only generate text.
-
-Research helps me understand the deeper questions. Building prototypes and products is how I test those ideas in practice.
-
-## Tools I Use
-
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Rust` · `Motoko` · `PostgreSQL` · `Playwright` · `Stellar` · `Internet Computer`
-
-## Contribution Trail
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildanniam/wildanniam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wildanniam/wildanniam/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/wildanniam/wildanniam/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Wildan's GitHub contribution graph" width="100%">
-  </picture>
-</p>
-
-<details>
-<summary><strong>Recent public activity</strong></summary>
-<br>
-
-<!-- AUTO:ACTIVITY:START -->
-- Aug 20, 2026: pushed 1 commit to [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: pushed 1 commit to [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: merged pull request [#11](https://github.com/wildanniam/koderea/pull/11) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: closed issue [#12](https://github.com/wildanniam/koderea/issues/12) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: closed issue [#10](https://github.com/wildanniam/koderea/issues/10) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: opened issue [#12](https://github.com/wildanniam/koderea/issues/12) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-<!-- AUTO:ACTIVITY:END -->
-
-</details>
+</div>
 
 ---
 
-<p align="center">
-  Building useful products around AI, Web3, and developer tools.
-</p>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=rajabhagat83&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+
+### 👤 About Me
+
+```typescript
+const raja = {
+  location    : "Ghaziabad, UP 🇮🇳",
+  education   : "B.Tech CSE @ RKGIT · CGPA 8.4",
+  currentRole : "Full Stack Intern @ Cieldoux Innovations",
+  building    : "SkillUp Bridge — live user discovery platform",
+  learning    : ["Docker", "AI Integration", "System Design"],
+  askMeAbout  : ["React", "Next.js", "Express", "WebSockets"],
+  funFact     : "I write async code but think in sync 😅",
+};
+```
+
+<br clear="right"/>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[🔗 SkillUp Bridge](https://buddyfinder-psi.vercel.app/)**
+
+> Interest-based developer discovery & real-time chat platform
+
+- ⚡ `<100ms` Socket.IO message delivery
+- 🎯 `~60%` reduction in irrelevant matches
+- 🔒 JWT auth · RESTful API · MongoDB persistence
+- 🚀 Deployed via automated CI/CD on Vercel
+
+`React` `Express.js` `MongoDB` `Socket.IO` `JWT`
+
+</td>
+<td width="50%">
+
+**[🔗 LiveCanvas](https://github.com/RajaBhagat83/LiveCanvas)**
+
+> Real-time collaborative whiteboard — zero canvas libraries
+
+- 🎨 `60fps` rendering via HTML5 Canvas + matrix transforms
+- 👥 `5+` concurrent editors · `<80ms` round-trip sync
+- 🐳 Dockerised · Turborepo monorepo · shared CI/CD
+- ⚡ Conflict-free WebSocket state sync
+
+`Next.js` `WebSockets` `PostgreSQL` `Docker` `Turborepo`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Database & DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rajabhagat83&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajabhagat83&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajabhagat83&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/RajaBhagat83/RajaBhagat83/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/RajaBhagat83/RajaBhagat83/output/github-snake.svg" />
+    <img alt="github contribution snake animation"
+         src="https://raw.githubusercontent.com/RajaBhagat83/RajaBhagat83/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 🏆 Achievements
+
+```
+🎯  170+ LeetCode problems solved  ·  Medium-Hard focused  ·  Arrays · Trees · Graphs
+🎓  B.Tech CSE  ·  CGPA 8.4 / 10  ·  Raj Kumar Goel Institute of Technology
+💼  2× Industry Internships  ·  Cieldoux Innovations  ·  Net Communication Services
+🚀  2× Live Production Apps  ·  Sub-100ms latency  ·  Multi-user concurrent sessions
+```
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajabhagat.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://rajabhagat.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raja--bhagat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-bhagat-6a04b02a9/)
+[![Twitter](https://img.shields.io/badge/Twitter-@raja__bhagat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raja__bhagat)
+[![Email](https://img.shields.io/badge/Email-bhagatraja116@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagatraja116@gmail.com)
+
+<br/>
+
+*"First, solve the problem. Then, write the code."*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
